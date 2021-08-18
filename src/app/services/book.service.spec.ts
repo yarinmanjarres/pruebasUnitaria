@@ -20,7 +20,7 @@ const listbook: Book[] =[
     name: '',
     author: '',
     isbn: '',
-    price: 20,
+    price: 31,
     amount: 1
   },
   {
